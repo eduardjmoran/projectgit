@@ -4,7 +4,7 @@ int p(int n){
     int k = 0;
     
     k = 1;
-     do {
+     do{
         resultado = resultado * k;
         k = k + 1;
     } while( k <= n );
